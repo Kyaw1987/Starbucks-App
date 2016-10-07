@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+
+    <string name="ref_q">Quantity</string>
+    <string name="ref_c">1</string>
+    <string name="ref_o">Order</string>
+
+    <string name="ref_orderSummary">Order Summary</string>
+    <string name="ref_totalOrderSummary">$0</string>
+    <string name="ref_i">+</string>
+    <string name="ref_d">-</string>
+    <string name="ref_t">Toppings</string>
+    <string name="ref_w">Whipped Cream</string>
+    <string name="ref_ch">Chocolate</string>
+    <string name="ref_n">Name</string>
+</resources>
